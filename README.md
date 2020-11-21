@@ -13,7 +13,7 @@ Portal2 Eco+ Edition is a Portal based videogame made with Unity3D.
 
 ### Gameplay
 Here's a look of our project. Click on the GIF to see more !
-<a href="https://www.youtube.com/watch?v=AnaACWZnJ4g" target="_blank">
+<a href="https://www.youtube.com/watch?v=AnaACWZnJ4g" target="_blank"">
 <img src="https://github.com/TheElysium/Portal2-Clone/blob/master/screenshots/Portal_2_Eco%2B_Niveau_dintroduction.gif" alt="gif intro level" width=70% >
 </a>
 
